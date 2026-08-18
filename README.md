@@ -54,6 +54,7 @@ Tenho interesse em evoluir profissionalmente nas áreas de:
 ## 🛠️ Tecnologias
 
 ### 💻 Desenvolvimento
+<img align="right" width="120" src="https://media.tenor.com/SRDuFks8igEAAAAi/kirby.gif">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
