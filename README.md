@@ -19,7 +19,18 @@
 🚀 Interesse em Desenvolvimento, Cloud, DevOps e Automação
 
 ---
+<h2 align="center">📊 Minhas Estatísticas</h2>
 
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=marcoslima2207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcoslima2207&layout=compact&langs_count=8&theme=tokyonight"
+  />
+</p>
 ## 🧑‍💻 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como
@@ -44,7 +55,7 @@ Tenho interesse em evoluir profissionalmente nas áreas de:
 
 ### 💻 Desenvolvimento
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -65,7 +76,12 @@ Tenho interesse em evoluir profissionalmente nas áreas de:
 ### 🔧 Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)      
+<div align="left">
+
+  <img src="https://media.tenor.com/3-GpXBEJTmUAAAAj/mario-dancing.gif" width="200">
+
+</div>
 
 ---
 
