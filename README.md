@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Marcos%20Eduardo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TI%20%7C%20Infraestrutura%20%7C%20Back-end&descAlignY=55&descSize=18" width="100%"/>%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Marcos%20Eduardo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TI%20%7C%20Infraestrutura%20%7C%20Back-end&descAlignY=55&descSize=18" width="100%"/>
 
 👋 Olá! Eu sou Marcos Eduardo
 💻 Estagiário de TI | 🖥️ Infraestrutura | 🐍 Python | 🌐 Back-end
