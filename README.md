@@ -8,29 +8,21 @@
 
 
 
-
 </div>
-# 👋 Olá, eu sou Marcos Eduardo!
 
 💻 Estagiário de TI | Desenvolvedor Back-end | Infraestrutura
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🖥️ Experiência com Suporte Técnico e Infraestrutura de TI  
 🚀 Interesse em Desenvolvimento, Cloud, DevOps e Automação
 
----
-<h2 align="center">📊 Minhas Estatísticas</h2>
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=marcoslima2207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcoslima2207&layout=compact&langs_count=8&theme=tokyonight"
-  />
-</p>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=marcoslima2207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcoslima2207&layout=compact&langs_count=8&theme=tokyonight" width="35%" />
+  <img src="https://media.tenor.com/lr6evdW49pcAAAAj/totodile-pokemon.gif" width="120" />
+</div>
+
+
 ## 🧑‍💻 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como
@@ -108,10 +100,6 @@ API REST desenvolvida utilizando Node.js, Express, Knex e MySQL.
 🔗 [Ver projeto](https://github.com/marcosxiuiu2207/api-crud-js)
 
 ---
-<table border="0">
-<tr>
-<td width="65%" valign="top" border="0">
-
 ## 📚 Atualmente estudando
 
 - 🐧 Linux / Red Hat
@@ -122,16 +110,6 @@ API REST desenvolvida utilizando Node.js, Express, Knex e MySQL.
 - 🤖 Inteligência Artificial
 - 🔧 DevOps
 - ☕ Java
-
-</td>
-
-<td width="35%" valign="bottom" align="center" border="0">
-
-<img src="https://media.tenor.com/VNYeun1JbTMAAAAj/kirby.gif" width="140">
-
-</td>
-</tr>
-</table>
 ---
 ## 📊 GitHub
 
