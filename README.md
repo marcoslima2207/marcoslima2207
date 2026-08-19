@@ -108,19 +108,31 @@ API REST desenvolvida utilizando Node.js, Express, Knex e MySQL.
 🔗 [Ver projeto](https://github.com/marcosxiuiu2207/api-crud-js)
 
 ---
+<table border="0">
+<tr>
+<td width="65%" valign="top" border="0">
 
 ## 📚 Atualmente estudando
 
 - 🐧 Linux / Red Hat
 - ⚙️ Ansible
-- ☁️ Cloud Computing
+- ☁️ Computação em Nuvem
 - 🌐 Redes
 - 🐍 Python
 - 🤖 Inteligência Artificial
 - 🔧 DevOps
 - ☕ Java
----
 
+</td>
+
+<td width="35%" valign="bottom" align="center" border="0">
+
+<img src="https://media.tenor.com/VNYeun1JbTMAAAAj/kirby.gif" width="140">
+
+</td>
+</tr>
+</table>
+---
 ## 📊 GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoslima2207&show_icons=true&theme=tokyonight)
