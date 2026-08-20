@@ -112,14 +112,6 @@ API REST desenvolvida utilizando Node.js, Express, Knex e MySQL.
 - 🔧 DevOps
 - ☕ Java
 ---
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoslima2207&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslima2207&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/marcos-eduardo-lima-83353136a/)
