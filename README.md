@@ -60,8 +60,6 @@ Tenho interesse em evoluir profissionalmente nas áreas de:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
 ### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -116,6 +114,6 @@ API REST desenvolvida utilizando Node.js, Express, Knex e MySQL.
 ---
 ## 📫 Contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/marcos-eduardo-lima-83353136a/)
+  <a href="https://www.linkedin.com/in/marcos-eduardo-lima-83353136a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 📧 marcosoliveiralima07@gmail.com
