@@ -88,7 +88,9 @@ de jogos digitais.
 
 **Tecnologias:** Python • Django • HTML • CSS • JavaScript
 
-🔗 [Ver projeto](https://github.com/marcoslima2207/SpaceGames)
+<a href="https://github.com/marcoslima2207/SpaceGames">
+  <img src="yoshi_engole_ver_projeto_exato.gif" width="200">
+</a>
 
 ---
 
